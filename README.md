@@ -1,5 +1,5 @@
 
-# Download the APK file [here](https://github.com/manishdahiya00/Bejaati-Karao/app/build/outputs/apk/debug/BejaatiKarao.apk).
+# Download the APK file [here](https://github.com/manishdahiya00/Bejaati-Karao/BejaatiKarao.apk).
 
 
 <p align="center">
