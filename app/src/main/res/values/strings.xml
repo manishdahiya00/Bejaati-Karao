@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bejaati Karao</string>
+    <string-array name="colors">
+        <item>Green </item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
